@@ -32,7 +32,7 @@ const Navbar = () => {
       </div>
       <ul
         className={
-          nav ? "absolute bg-zinc-200 w-full px-8 md:hidden" : "hidden"
+          nav ? "absolute bg-zinc-200 w-full px-8 md:hidden min-h-screen" : "hidden"
         }>
         <li className='border-b-2 border-zinc-300 w-full'>Home</li>
         <li className='border-b-2 border-zinc-300 w-full'>About</li>
