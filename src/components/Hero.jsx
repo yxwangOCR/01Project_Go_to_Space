@@ -11,7 +11,7 @@ const Hero = () => {
   return (
     <main className='w-full h-full bg-zinc-200 flex flex-col py-8'>
       <div className='grid md:grid-cols-2 max-w-[1240px] mx-auto my-8'>
-        <div className='flex flex-col justify-center w-full px-2 py-8 md:items-start'>
+        <div className='flex flex-col justify-center w-full px-2 py-8 items-center text-center md:items-start md:text-left'>
           <p className='text-2xl'>Unique Sequencing & Production</p>
           <h1 className='py-3 text-5xl font-bold md:text-7xl'>
             Cloud Management

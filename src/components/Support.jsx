@@ -5,10 +5,10 @@ import SupportImg from "../assets/support.jpg";
 
 const Support = () => {
   return (
-    <section className='w-full h-full'>
+    <section className='w-full'>
       <div className='w-full bg-gray-900/90 absolute'>
         <img
-          className='w-full min-h-[435px] mix-blend-overlay object-cover lg:max-h-[700px]'
+          className='w-full min-h-[435px] lg:max-h-[500px] mix-blend-overlay object-cover'
           src={SupportImg}
           alt='support'
         />
@@ -23,7 +23,7 @@ const Support = () => {
             <h3 className='text-3xl font-bold text-center pt-4'>
               Finding the right team
             </h3>
-            <p className='pt-4 text-xl text-slate-300'>
+            <p className='pt-4 text-xl text-center text-slate-300'>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem
               eaque cupiditate facere voluptate esse. Fugiat quaerat blanditiis
               incidunt officiis maxime totam voluptatem delectus corporis, esse
@@ -46,8 +46,8 @@ const Support = () => {
                   neque facilis nobis error facere odit, ipsum reiciendis dolor
                   repellat repudiandae perferendis eos vel!
                 </p>
-                <div className='bg-slate-200 px-8 py-4 rounded-b-2xl'>
-                  <p className='flex items-center text-indigo-600'>
+                <div className='bg-slate-200 px-8 py-4 rounded-b-2xl hover:bg-slate-400'>
+                  <p className='flex items-center text-indigo-600 hover:cursor-pointer hover:text-white'>
                     Contact Us <ArrowSmRightIcon className='w-6 ml-2' />
                   </p>
                 </div>
@@ -67,8 +67,8 @@ const Support = () => {
                   neque facilis nobis error facere odit, ipsum reiciendis dolor
                   repellat repudiandae perferendis eos vel!
                 </p>
-                <div className='bg-slate-200 px-8 py-4 rounded-b-2xl'>
-                  <p className='flex items-center text-indigo-600'>
+                <div className='bg-slate-200 px-8 py-4 rounded-b-2xl hover:bg-slate-400'>
+                  <p className='flex items-center text-indigo-600 hover:cursor-pointer hover:text-white'>
                     Contact Us <ArrowSmRightIcon className='w-6 ml-2' />
                   </p>
                 </div>
@@ -88,8 +88,8 @@ const Support = () => {
                   neque facilis nobis error facere odit, ipsum reiciendis dolor
                   repellat repudiandae perferendis eos vel!
                 </p>
-                <div className='bg-slate-300 px-8 py-4 rounded-b-2xl'>
-                  <p className='flex items-center text-indigo-600'>
+                <div className='bg-slate-200 px-8 py-4 rounded-b-2xl hover:bg-slate-400'>
+                  <p className='flex items-center text-indigo-600 hover:cursor-pointer hover:text-white'>
                     Contact Us <ArrowSmRightIcon className='w-6 ml-2' />
                   </p>
                 </div>
