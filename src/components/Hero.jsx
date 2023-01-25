@@ -9,7 +9,7 @@ import bgImg from "../assets/cyber-bg.png";
 
 const Hero = () => {
   return (
-    <main className='w-full h-full bg-zinc-200 flex flex-col py-8'>
+    <main name='home' className='w-full h-full bg-zinc-200 flex flex-col py-8'>
       <div className='grid md:grid-cols-2 max-w-[1240px] mx-auto my-8'>
         <div className='flex flex-col justify-center w-full px-2 py-8 items-center text-center md:items-start md:text-left'>
           <p className='text-2xl'>Unique Sequencing & Production</p>

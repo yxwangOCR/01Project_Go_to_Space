@@ -3,7 +3,7 @@ import { CheckIcon } from "@heroicons/react/outline";
 
 const AllInOne = () => {
   return (
-    <section className='w-full'>
+    <section name="platform" className='w-full py-8'>
       <div className="my-8">
         <h2 className='text-5xl font-bold text-center'>All-In-One Platform</h2>
         <p className='text-xl py-8 px-16 text-slate-500 text-center'>

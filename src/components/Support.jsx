@@ -5,7 +5,7 @@ import SupportImg from "../assets/support.jpg";
 
 const Support = () => {
   return (
-    <section className='w-full'>
+    <section name="support" className='w-full'>
       <div className='w-full bg-gray-900/90 absolute'>
         <img
           className='w-full min-h-[435px] lg:max-h-[500px] mix-blend-overlay object-cover'
