@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/01Project_Go_to_Space/static/css/main.255dc4c4.css",
+    "main.js": "/01Project_Go_to_Space/static/js/main.d23d5524.js",
+    "static/media/remixicon.svg?t=1590207869815": "/01Project_Go_to_Space/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/01Project_Go_to_Space/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/01Project_Go_to_Space/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/support.jpg": "/01Project_Go_to_Space/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/01Project_Go_to_Space/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "static/media/remixicon.woff?t=1590207869815": "/01Project_Go_to_Space/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/01Project_Go_to_Space/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "index.html": "/01Project_Go_to_Space/index.html",
+    "main.255dc4c4.css.map": "/01Project_Go_to_Space/static/css/main.255dc4c4.css.map",
+    "main.d23d5524.js.map": "/01Project_Go_to_Space/static/js/main.d23d5524.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255dc4c4.css",
+    "static/js/main.d23d5524.js"
+  ]
+}
