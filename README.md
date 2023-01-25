@@ -5,12 +5,14 @@ This is a practice to the [Build a React JS Website with Tailwind CSS - Beginner
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Grid layout
 - Mobile-first workflow
 - React
 - Tailwind CSS
+- React-scroll
+- Heroicons
+- Remixicon
 
 ### Screenshot
 
